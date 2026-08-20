@@ -1,0 +1,32 @@
+{
+  "Cafeteria2.wav": {
+    "status": "STABLE"
+  },
+  "Metro4.wav": {
+    "status": "STABLE"
+  },
+  "Office5.wav": {
+    "status": "STABLE"
+  },
+  "metro_test1.wav": {
+    "status": "RELOCATION_OR_FRAUD"
+  },
+  "metro_test2.wav": {
+    "status": "RELOCATION_OR_FRAUD"
+  },
+  "yttest_nature_000.wav": {
+    "status": "STABLE"
+  },
+  "yttest_nature_001.wav": {
+    "status": "STABLE"
+  },
+  "yttest_traffic_000.wav": {
+    "status": "STABLE"
+  },
+  "yttest_traffic_001.wav": {
+    "status": "STABLE"
+  },
+  "yttest_traffic_002.wav": {
+    "status": "RELOCATION_OR_FRAUD"
+  }
+}

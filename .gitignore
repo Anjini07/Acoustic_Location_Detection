@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# CatBoost generated files
+catboost_info/
+
+# FFmpeg binaries
+ffmpeg/
+
+# Large audio files
+*.wav
+*.amr
+*.mp3
+
+# OS files
+.DS_Store
+Thumbs.db

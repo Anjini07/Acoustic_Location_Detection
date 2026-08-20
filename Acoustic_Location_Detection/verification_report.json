@@ -1,0 +1,87 @@
+{
+  "cafeteria/yt_cafeteria_002.wav": {
+    "expected_location": "cafeteria",
+    "num_windows": 1441,
+    "all_scores": {
+      "cafeteria": 0.5197484954493118,
+      "nature": -0.09790681896930392,
+      "office": 0.34657239226551395,
+      "traffic": 0.20870694453050082
+    },
+    "best_match": "cafeteria",
+    "best_score": 0.5197484954493118,
+    "best_status": "STABLE",
+    "expected_score": 0.5197484954493118,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.17317610318379784
+  },
+  "nature/yt_nature_001.wav": {
+    "expected_location": "nature",
+    "num_windows": 720,
+    "all_scores": {
+      "cafeteria": -0.056647934527448325,
+      "nature": 0.8803737415888612,
+      "office": -0.14483313197514544,
+      "traffic": 0.11299072862884878
+    },
+    "best_match": "nature",
+    "best_score": 0.8803737415888612,
+    "best_status": "STABLE",
+    "expected_score": 0.8803737415888612,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.7673830129600124
+  },
+  "office/yt_office_000.wav": {
+    "expected_location": "office",
+    "num_windows": 1440,
+    "all_scores": {
+      "cafeteria": 0.41940456769033485,
+      "nature": 0.05990930954704334,
+      "office": 0.7186427729037863,
+      "traffic": 0.1141073299519594
+    },
+    "best_match": "office",
+    "best_score": 0.7186427729037863,
+    "best_status": "STABLE",
+    "expected_score": 0.7186427729037863,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.29923820521345146
+  },
+  "office/yt_office_002.wav": {
+    "expected_location": "office",
+    "num_windows": 735,
+    "all_scores": {
+      "cafeteria": 0.38937008316067867,
+      "nature": 0.19543111568878485,
+      "office": 0.8700579671038386,
+      "traffic": 0.17467451979073675
+    },
+    "best_match": "office",
+    "best_score": 0.8700579671038386,
+    "best_status": "STABLE",
+    "expected_score": 0.8700579671038386,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.48068788394316
+  },
+  "traffic/yt_traffic_001.wav": {
+    "expected_location": "traffic",
+    "num_windows": 720,
+    "all_scores": {
+      "cafeteria": 0.27348699981097635,
+      "nature": 0.1542533075576152,
+      "office": 0.14065029201478102,
+      "traffic": 0.6703905253807707
+    },
+    "best_match": "traffic",
+    "best_score": 0.6703905253807707,
+    "best_status": "STABLE",
+    "expected_score": 0.6703905253807707,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.39690352556979436
+  }
+}

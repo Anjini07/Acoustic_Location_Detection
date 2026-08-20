@@ -1,0 +1,284 @@
+{
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_170750_486.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_170812_234.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_171017_924.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_171053_032.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_171738_401.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_172632_492.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_172708_036.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_172916_704.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_173033_405.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_173100_640.amr": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro1.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro10.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro11.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro2.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro3.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro4.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro6.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro7.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro9.amr": {
+    "location": "metro"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_164446_800.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165258_206.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165342_738.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165559_916.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165650_015.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165902_413.amr": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260604_145245_744.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260604_145302_351.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_100710_722.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_100756_942.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_100821_171.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_100849_430.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_101553_661.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_101604_261.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_101758_177.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_101847_801.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_173540_067.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_191825_804.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_191903_535.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194001_348.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194043_552.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194127_907.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194200_930.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194244_756.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194429_420.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194819_286.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194956_940.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_195236_966.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_195306_466.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200122_059.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200251_835.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200258_900.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200345_032.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200355_799.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200359_073.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200404_332.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200406_419.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200425_075.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200524_971.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200548_380.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200626_351.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200715_370.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200907_034.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200913_639.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260731_145412_970.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_110822_746.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111019_634.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111132_796.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111548_271.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111629_188.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111731_296.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_111831_337.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_113230_033.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_150731_015.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_151054_032.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_151118_935.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_152920_924.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_153136_407.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_153532_788.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_115520_447.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_115723_112.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_115808_054.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_120039_547.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_124243_159.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_124944_248.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_125148_295.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_125430_834.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_130218_358.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_130607_964.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_162155_528.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_162339_476.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_162440_464.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_164751_792.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_173352_473.amr": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\Office5.amr": {
+    "location": "office"
+  }
+}

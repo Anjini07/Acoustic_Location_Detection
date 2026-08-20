@@ -1,0 +1,62 @@
+{
+  "Acoustic_Location_Detection/raw_recordings\\cafeteria\\yt_cafeteria_000.wav": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\cafeteria\\yt_cafeteria_001.wav": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\cafeteria\\yt_cafeteria_002.wav": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\cafeteria\\yt_cafeteria_003.wav": {
+    "location": "cafeteria"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\nature\\yt_nature_000.wav": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\nature\\yt_nature_001.wav": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\nature\\yt_nature_002.wav": {
+    "location": "nature"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Demo audio 1.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office1.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office2.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office3.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office4.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office6.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\Office7.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\yt_office_000.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\yt_office_001.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\office\\yt_office_002.wav": {
+    "location": "office"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\traffic\\yt_traffic_000.wav": {
+    "location": "traffic"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\traffic\\yt_traffic_001.wav": {
+    "location": "traffic"
+  },
+  "Acoustic_Location_Detection/raw_recordings\\traffic\\yt_traffic_002.wav": {
+    "location": "traffic"
+  }
+}

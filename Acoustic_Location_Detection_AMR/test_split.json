@@ -1,0 +1,29 @@
+{
+  "cafeteria": [
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_172916_704.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\cafeteria\\20260805_171053_032.amr"
+  ],
+  "metro": [
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro2.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\metro\\Metro4.amr"
+  ],
+  "nature": [
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\nature\\20260805_165342_738.amr"
+  ],
+  "office": [
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200359_073.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_125148_295.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_130218_358.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_130607_964.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200548_380.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200345_032.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260604_145302_351.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_173352_473.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194127_907.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260805_125430_834.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_194819_286.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_173540_067.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260804_153532_788.amr",
+    "Acoustic_Location_Detection_AMR/raw_recordings_amr\\office\\20260605_200258_900.amr"
+  ]
+}

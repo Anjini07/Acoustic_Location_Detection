@@ -1,0 +1,149 @@
+{
+  "cafe_test.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\cafe_test.amr",
+    "num_windows": 4,
+    "avg_scores": {
+      "cafeteria": 0.6679299638899221,
+      "metro": -0.2799187432446535,
+      "nature": 0.6177756340821738,
+      "office": 0.5548514220464691
+    },
+    "vote_counts": {
+      "cafeteria": 2,
+      "metro": 0,
+      "nature": 2,
+      "office": 0
+    },
+    "final_match": "cafeteria",
+    "final_score": 0.6679299638899221,
+    "status": "STABLE",
+    "margin": 0.050154329807748255,
+    "confidence": "MODERATE"
+  },
+  "metro_test.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\metro_test.amr",
+    "num_windows": 8,
+    "avg_scores": {
+      "cafeteria": 0.4219326904921855,
+      "metro": 0.09516751297747558,
+      "nature": 0.24957528887493385,
+      "office": 0.17071278439683862
+    },
+    "vote_counts": {
+      "cafeteria": 8,
+      "metro": 0,
+      "nature": 0,
+      "office": 0
+    },
+    "final_match": "cafeteria",
+    "final_score": 0.4219326904921855,
+    "status": "MODERATE_DRIFT",
+    "margin": 0.17235740161725166,
+    "confidence": "HIGH"
+  },
+  "nature_test.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\nature_test.amr",
+    "num_windows": 2,
+    "avg_scores": {
+      "cafeteria": 0.5016526431299534,
+      "metro": -0.26762035790130767,
+      "nature": 0.5849764187643982,
+      "office": 0.32678771726955735
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 2,
+      "office": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.5849764187643982,
+    "status": "STABLE",
+    "margin": 0.08332377563444482,
+    "confidence": "MODERATE"
+  },
+  "office_test.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\office_test.amr",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.4148381880131715,
+      "metro": -0.2062137530305676,
+      "nature": 0.447342928152991,
+      "office": 0.33960587366241113
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 1,
+      "office": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.447342928152991,
+    "status": "MODERATE_DRIFT",
+    "margin": 0.032504740139819466,
+    "confidence": "LOW \u2014 scores too close to call reliably"
+  },
+  "office_test2.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\office_test2.amr",
+    "num_windows": 2,
+    "avg_scores": {
+      "cafeteria": 0.6531121115560328,
+      "metro": -0.41230870001231,
+      "nature": 0.72001666670152,
+      "office": 0.5812273966271533
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 2,
+      "office": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.72001666670152,
+    "status": "STABLE",
+    "margin": 0.06690455514548721,
+    "confidence": "MODERATE"
+  },
+  "office_test3.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\office_test3.amr",
+    "num_windows": 2,
+    "avg_scores": {
+      "cafeteria": 0.2057208874602227,
+      "metro": -0.26000966684219184,
+      "nature": 0.3051281982067865,
+      "office": 0.3158456581219189
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "metro": 0,
+      "nature": 1,
+      "office": 0
+    },
+    "final_match": "office",
+    "final_score": 0.3158456581219189,
+    "status": "RELOCATION_OR_FRAUD",
+    "margin": 0.010717459915132399,
+    "confidence": "LOW \u2014 scores too close to call reliably"
+  },
+  "20260807_110255_860.amr": {
+    "file": "Acoustic_Location_Detection_AMR/incoming\\20260807_110255_860.amr",
+    "num_windows": 3,
+    "avg_scores": {
+      "cafeteria": 0.20639749183447617,
+      "metro": -0.2372511783786692,
+      "nature": 0.31142424389044054,
+      "office": 0.4765112735652061
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "metro": 0,
+      "nature": 0,
+      "office": 2
+    },
+    "final_match": "office",
+    "final_score": 0.4765112735652061,
+    "status": "MODERATE_DRIFT",
+    "margin": 0.16508702967476557,
+    "confidence": "HIGH"
+  }
+}

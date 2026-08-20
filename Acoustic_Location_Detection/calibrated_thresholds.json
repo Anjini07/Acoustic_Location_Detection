@@ -1,0 +1,24 @@
+{
+  "stable_threshold": 0.4654998049640069,
+  "moderate_threshold": 0.3840667982424425,
+  "same_location_stats": {
+    "mean": 0.6865929414436154,
+    "min": 0.07122343176640678,
+    "max": 0.9726398323805642,
+    "n": 11602
+  },
+  "diff_location_stats": {
+    "mean": 0.14630715176018266,
+    "min": -0.3320034848236816,
+    "max": 0.7667312975956785,
+    "n": 34806
+  },
+  "locations": [
+    "cafeteria",
+    "nature",
+    "office",
+    "traffic"
+  ],
+  "manual_override": false,
+  "calibrated_at": "2026-08-19 12:23:12"
+}

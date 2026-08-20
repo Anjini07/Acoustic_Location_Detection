@@ -1,0 +1,453 @@
+{
+  "yttest_nature_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_nature_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.07164623853570673,
+      "metro": 0.009218038254247152,
+      "nature": 0.5312220553462893,
+      "office": 0.17640662041719282,
+      "traffic": -0.06004443883527629
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 1,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.5312220553462893,
+    "status": "STABLE",
+    "location_verdict": "nature",
+    "verdict_message": null,
+    "margin": 0.3548154349290965,
+    "confidence": "HIGH"
+  },
+  "yttest_nature_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_nature_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.03593999863495383,
+      "nature": 0.39017465989195427,
+      "office": 0.23755982153670283,
+      "traffic": -0.02984488945756489
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 1,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.39017465989195427,
+    "status": "MODERATE_DRIFT",
+    "location_verdict": "nature",
+    "verdict_message": null,
+    "margin": 0.15261483835525144,
+    "confidence": "HIGH"
+  },
+  "yttest_test_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.4166376787667152,
+      "nature": 0.4752626201549396,
+      "office": 0.5469527093184601,
+      "traffic": 0.24996891187639017
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.5469527093184601,
+    "status": "STABLE",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.07169008916352049,
+    "confidence": "MODERATE"
+  },
+  "yttest_test_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.4224909776096001,
+      "nature": 0.5019263714277281,
+      "office": 0.36322728131292775,
+      "traffic": 0.1750182670347291
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 1,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.5019263714277281,
+    "status": "STABLE",
+    "location_verdict": "nature",
+    "verdict_message": null,
+    "margin": 0.07943539381812803,
+    "confidence": "MODERATE"
+  },
+  "yttest_test_cafeteria_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_cafeteria_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.1882857828461713,
+      "nature": 0.22382367389836189,
+      "office": 0.41895335562631353,
+      "traffic": -0.03121469199800526
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.41895335562631353,
+    "status": "MODERATE_DRIFT",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.19512968172795164,
+    "confidence": "HIGH",
+    "acoustic_hashes": [
+      "6e6b30690dae726592c00762544bcaf9e1bb6ce0cb6bd7159a4e2c2b3f779bad"
+    ],
+    "device_id": "unregistered_test_device",
+    "date_bucket": "20683"
+  },
+  "yttest_test_cafeteria_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_cafeteria_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.27299696712754,
+      "nature": 0.06923207276155997,
+      "office": 0.3673468853493916,
+      "traffic": -0.0579430017005764
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.3673468853493916,
+    "status": "MODERATE_DRIFT",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.09434991822185157,
+    "confidence": "MODERATE"
+  },
+  "yttest_test_metro_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_metro_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.48733301059707756,
+      "metro": 0.13941668591095788,
+      "nature": 0.015140948013801314,
+      "office": 0.3057268204863034,
+      "traffic": 0.07660366411114879
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "metro": 0,
+      "nature": 0,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "cafeteria",
+    "final_score": 0.48733301059707756,
+    "status": "STABLE",
+    "location_verdict": "cafeteria",
+    "verdict_message": null,
+    "margin": 0.18160619011077417,
+    "confidence": "HIGH"
+  },
+  "yttest_test_metro_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_metro_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.3270254252994642,
+      "metro": 0.10410576395455233,
+      "nature": 0.023091268801897522,
+      "office": 0.24988966925296183,
+      "traffic": 0.15325618828902876
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "metro": 0,
+      "nature": 0,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "cafeteria",
+    "final_score": 0.3270254252994642,
+    "status": "RELOCATION_OR_FRAUD",
+    "location_verdict": "UNKNOWN_NEW_LOCATION",
+    "verdict_message": "This audio doesn't match any of the 5 known locations well enough (closest guess was 'cafeteria', score=0.3270). It may be a NEW location not yet in the system, rather than one of the existing ones.",
+    "margin": 0.07713575604650239,
+    "confidence": "MODERATE"
+  },
+  "yttest_test_office_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_office_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.04738214591411343,
+      "metro": 0.09734812281026489,
+      "nature": 0.05595666815634103,
+      "office": 0.3657426908283878,
+      "traffic": -0.009395599883574137
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.3657426908283878,
+    "status": "RELOCATION_OR_FRAUD",
+    "location_verdict": "UNKNOWN_NEW_LOCATION",
+    "verdict_message": "This audio doesn't match any of the 5 known locations well enough (closest guess was 'office', score=0.3657). It may be a NEW location not yet in the system, rather than one of the existing ones.",
+    "margin": 0.2683945680181229,
+    "confidence": "HIGH"
+  },
+  "yttest_test_office_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_office_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.3405074012099233,
+      "nature": 0.07446840343398758,
+      "office": 0.4445095433090648,
+      "traffic": 0.41770659649181086
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.4445095433090648,
+    "status": "STABLE",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.026802946817253925,
+    "confidence": "LOW \u2014 scores too close to call reliably"
+  },
+  "yttest_test_traffic_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_traffic_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.010057029794193538,
+      "metro": -0.015437391918896173,
+      "nature": 0.20784561431896784,
+      "office": 0.1053723354043678,
+      "traffic": 0.40123042557544547
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "metro": 0,
+      "nature": 0,
+      "office": 0,
+      "traffic": 1
+    },
+    "final_match": "traffic",
+    "final_score": 0.40123042557544547,
+    "status": "STABLE",
+    "location_verdict": "traffic",
+    "verdict_message": null,
+    "margin": 0.19338481125647763,
+    "confidence": "HIGH"
+  },
+  "yttest_test_traffic_001.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_test_traffic_001.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": -0.04199259462447605,
+      "nature": 0.17794134714463355,
+      "office": 0.16741420574704766,
+      "traffic": 0.21857621665476415
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 0,
+      "traffic": 1
+    },
+    "final_match": "traffic",
+    "final_score": 0.21857621665476415,
+    "status": "RELOCATION_OR_FRAUD",
+    "location_verdict": "UNKNOWN_NEW_LOCATION",
+    "verdict_message": "This audio doesn't match any of the 4 known locations well enough (closest guess was 'traffic', score=0.2186). It may be a NEW location not yet in the system, rather than one of the existing ones.",
+    "margin": 0.040634869510130595,
+    "confidence": "LOW \u2014 scores too close to call reliably",
+    "acoustic_hashes": [
+      "a483da615129c2be579f62d4e52df34242fa7628bf83685c6af84fc99f022bbd"
+    ],
+    "device_id": "unregistered_test_device",
+    "date_bucket": "20683"
+  },
+  "yttest_traffic_002.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_traffic_002.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.35512883323303385,
+      "nature": 0.20613883874340966,
+      "office": 0.2487697478751059,
+      "traffic": 0.2521229480678328
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "nature": 0,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "cafeteria",
+    "final_score": 0.35512883323303385,
+    "status": "MODERATE_DRIFT",
+    "location_verdict": "cafeteria",
+    "verdict_message": null,
+    "margin": 0.10300588516520104,
+    "confidence": "MODERATE"
+  },
+  "yttest_office_000.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_office_000.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.09987031847195242,
+      "nature": 0.16247214252112194,
+      "office": 0.5157882746884951,
+      "traffic": 0.040408087504582725
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 0,
+      "office": 1,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.5157882746884951,
+    "status": "STABLE",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.3533161321673731,
+    "confidence": "HIGH"
+  },
+  "Office5.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\Office5.wav",
+    "num_windows": 54,
+    "avg_scores": {
+      "cafeteria": 0.15768147076669048,
+      "nature": 0.38433667321600673,
+      "office": 0.43305361016326044,
+      "traffic": 0.12202293968334131
+    },
+    "vote_counts": {
+      "cafeteria": 1,
+      "nature": 22,
+      "office": 31,
+      "traffic": 0
+    },
+    "final_match": "office",
+    "final_score": 0.43305361016326044,
+    "status": "STABLE",
+    "location_verdict": "office",
+    "verdict_message": null,
+    "margin": 0.04871693694725371,
+    "confidence": "LOW \u2014 scores too close to call reliably",
+    "acoustic_hashes": [
+      "786de9ccfd9dd02b0f848bcf719e91c505bace51d0a154fa1c48532854b4423f",
+      "eec4c019079cfd4ee340857eaf17b1525700efe28424f8ff74a9dc48ad24a0ba",
+      "c2695cb64c63f5d6c8c4004384ba4455963bd5726e1a11edf020ecd31f6dc068",
+      "180e76f91c2325d243fc5e0981988ea67456a540764b8f657c7b496a531143b1",
+      "c52700ef9e0846511aa667dd335d1bdd7dd900e45dcca22f1a9d7bbbef695e29",
+      "daf27289e0af3714653c7cb3f8445c0aa9e490eee0d7d8e879b0aad93b44f573",
+      "df91cd77f3d7dd12c7a416e779afe0fc73e27cdcf4313790c036b7451637db38",
+      "20b0ab63ad834e176136ae536a8937cc145a8a1e3cc0d5631418d485054b68c1",
+      "98fd50fd863d5f9f3e181614db76c98a5a74d968bd257daa595951d346db7fc1",
+      "f649f7e8f15b25ffe2e77b282b1fe9c2f0eeb7596df323024dacb09c090ea895",
+      "0ff05f91ce1cb409ca22852eaf870d56ff77d8164ee308cfb2ae8cd862894129",
+      "50d3a8a5027ff2f4df8dc6267f0a78cd871b46a405a7977f73850ce415a37c75",
+      "0a75fa9e2156ccb2cca99c799dd4a610b9c5aac6875cb304b6278b2f96a08f0b",
+      "c3113203a3e361418d4daaf09fa0fdd6b54f295246a24b7e88394b277b917a92",
+      "48039685c638be6cdf98d921a3fb7c8ae65477eca3c855824ec40bb625fc005d",
+      "620999d4fc4f2c07fd350254d8b3edc7e11e8923cc90acd5a4e49780fdc530eb",
+      "4c9a936ac61d472eed29c50b706bd518f957e996a9f7828aee6671342beb5211",
+      "565048fdec1829a0d2cde606df3b38a61491aa7046ee52091fda3ba3395a079c",
+      "c63ded40bb1ffaa78127cdf52b0bd5f0d111eeb854d7e63af503bda21aaa63d6",
+      "10d3d25bee0dfa40c58f39221b0c8a609150d9e3319e1bdf6921891e30417a82",
+      "3fecbdcb2a1ab4fb185f24b6852771228ff05b18d86886c07ed4505332056056",
+      "9df85be3b24e9a405544d49448d6ea31486a1dbfc0946c78bc716fd3bd43e544",
+      "843210999f3f81cdb783777ed1af40424eb3d5a0f2845adb8030b9b4b037a2c6",
+      "7ad6ed8bbacb30ecf9743d31b0fbb070c0b098f375eeb9c10dc49f3464c4164f",
+      "607565efd886d15e308b34f5de04555bb341265996e84efe03cbc5f732295355",
+      "6099d62c00db2daddff1f6340995f8f25eebe1468c1faaaee1d8e308f5100b49",
+      "80853b03a09dc185723d911ecac3fb0575b389598ad1754ef70572183af6c749",
+      "73820e84ef38271b20a004ecf7bbbc7448238dbe69c122dec7df538f2334c875",
+      "5b5476406064be547a0a43db02dc960b0e2b16596542ab2152b36009fd1f8ae9",
+      "b522d9b0fd0dcce218a4f5dc3ba1260fe6c6ca27467a475e3c2e637044eb09a3",
+      "1ebf551e3d78fccc2dc50321215e24ee4f3950c2f448eab599205752cdeb8779",
+      "3b5b34e1c408f59e622bd60ca96e0a8f4e14563657806b128173ed2d4919f33c",
+      "21dc43340bcec58c160cc7544a083ed754cd58a3e60f0661cdd70876689f5055",
+      "5135e784ed6f6a752eea6a8984fb7b9ba85edffcfef7bed9a6cfea4d727b842b",
+      "8e5abefb6acf2dd372572e45ba8ffb77adba64eceebe206f0418e32d3b0df250",
+      "22984334f852fb5de8df67a4a5ccacc6ea9f2b37f69af032458f4d8566cd1666",
+      "cd15559bb298827427f447b996110e44211fe48bdfa0289edbc813d50f064566",
+      "805c7f32a1ab3ed6a4c8ba4e984399a5b722a6acc7aa1bc01d6be01d85df2f7a",
+      "9ca2a97f03c79a4386e3dd7d3f63733a396f451eda02a4e96bb98c351b596604",
+      "56ae1e66b35183af79eaa03fa3ce507018947618ab31498cd507532b57c0bbc8",
+      "5f1d55f512053f34d9398eede758a53471ee416253782c14125d94b263c4f0e1",
+      "b1ed9ef569199379d1e34eeedb757f8caaec365eb7c5d8a5c8a4841743d579e0",
+      "7d447245ff7df180218b5f73feec82cfc086739fae28fb3e0a61bb670d44928a",
+      "71c3ea5e71d96f3c5b705e4b7d18c8d027b2d5ef5491774cf2a97c42a1de16cc",
+      "cccbd896932244e910c00a28030add15eecd0d2d2a8f4a9a4f3ebeaa7d3c9e77",
+      "c5d10adc75b8f5dce4a36e40f18fb9fdaa1d0e5dbb95c4c006026e26878e82b0",
+      "4d3a91b9fbba1e9247a8e0fdc7129772d83894aa964569a8d0e357799ffcf33b",
+      "300cf1c60d9cbd64c9e7174708af4578661aa0644f2f4bdcba684de1c9df45cb",
+      "50bd6ac07ac077b73287296f8a6b17c0012755d54fa2b955e4c52901754fe55c",
+      "b97568da3b9b69d5cb71d0916207bcf6c1d43dc090f56865fdfbfe3caa89a011",
+      "d008aac13ef68116e87a347715d772e2fb1159c37600c120dfb6b874dfdc68e3",
+      "cb52e79ffea6fb385a43c9f0a18ebac760ebd3c4d8fc56f16c1b48cde5a0a68a",
+      "7074d992d4db1a074e12d535744e6e864e584d99f7e801f982a729762a2aff3c",
+      "19617b2711e6fdd9f76c424c2d5614cc3965ce5795a49ee51ba82ffe20e6df13"
+    ],
+    "device_id": "unregistered_test_device",
+    "date_bucket": "20683"
+  },
+  "yttest_nature_000_1.wav": {
+    "file": "Acoustic_Location_Detection/incoming\\yttest_nature_000_1.wav",
+    "num_windows": 1,
+    "avg_scores": {
+      "cafeteria": 0.019759968729488472,
+      "nature": 0.5361201293526477,
+      "office": 0.2766837897225928,
+      "traffic": -0.009167288127334807
+    },
+    "vote_counts": {
+      "cafeteria": 0,
+      "nature": 1,
+      "office": 0,
+      "traffic": 0
+    },
+    "final_match": "nature",
+    "final_score": 0.5361201293526477,
+    "status": "STABLE",
+    "location_verdict": "nature",
+    "verdict_message": null,
+    "margin": 0.25943633963005497,
+    "confidence": "HIGH",
+    "acoustic_hashes": [
+      "1db11765fdddd5ad38f44736bc310cdb29a25186f8a84c52433816a15833792a"
+    ],
+    "device_id": "unregistered_test_device",
+    "date_bucket": "20683"
+  }
+}

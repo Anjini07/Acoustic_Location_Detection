@@ -1,0 +1,5 @@
+{
+  "quiet_threshold": 0.026097229868173547,
+  "noisy_threshold": 0.05378383249044414,
+  "note": "noise_floor_rms <= quiet_threshold -> quiet; >= noisy_threshold -> noisy; else -> moderate"
+}

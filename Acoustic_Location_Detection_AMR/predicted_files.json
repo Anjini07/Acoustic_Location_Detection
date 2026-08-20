@@ -1,0 +1,23 @@
+{
+  "cafe_test.amr": {
+    "status": "STABLE"
+  },
+  "metro_test.amr": {
+    "status": "MODERATE_DRIFT"
+  },
+  "nature_test.amr": {
+    "status": "STABLE"
+  },
+  "office_test.amr": {
+    "status": "MODERATE_DRIFT"
+  },
+  "office_test2.amr": {
+    "status": "STABLE"
+  },
+  "office_test3.amr": {
+    "status": "RELOCATION_OR_FRAUD"
+  },
+  "20260807_110255_860.amr": {
+    "status": "MODERATE_DRIFT"
+  }
+}

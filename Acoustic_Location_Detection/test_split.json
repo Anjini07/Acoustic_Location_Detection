@@ -1,0 +1,15 @@
+{
+  "cafeteria": [
+    "Acoustic_Location_Detection/raw_recordings\\cafeteria\\yt_cafeteria_002.wav"
+  ],
+  "nature": [
+    "Acoustic_Location_Detection/raw_recordings\\nature\\yt_nature_001.wav"
+  ],
+  "office": [
+    "Acoustic_Location_Detection/raw_recordings\\office\\yt_office_000.wav",
+    "Acoustic_Location_Detection/raw_recordings\\office\\yt_office_002.wav"
+  ],
+  "traffic": [
+    "Acoustic_Location_Detection/raw_recordings\\traffic\\yt_traffic_001.wav"
+  ]
+}

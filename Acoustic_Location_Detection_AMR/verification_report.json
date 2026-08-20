@@ -1,0 +1,223 @@
+{
+  "cafeteria/20260805_172916_704.amr": {
+    "expected_location": "cafeteria",
+    "num_windows": 2,
+    "all_scores": {
+      "cafeteria": 0.8532949429839005,
+      "metro": -0.05975250569503976,
+      "nature": 0.7520270556132689,
+      "office": 0.6430884028727424
+    },
+    "best_match": "cafeteria",
+    "best_score": 0.8532949429839005,
+    "best_status": "STABLE",
+    "expected_score": 0.8532949429839005,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.10126788737063164
+  },
+  "cafeteria/20260805_171053_032.amr": {
+    "expected_location": "cafeteria",
+    "num_windows": 4,
+    "all_scores": {
+      "cafeteria": 0.8312555391804374,
+      "metro": -0.12276416527216119,
+      "nature": 0.7007937037043356,
+      "office": 0.5129688436317545
+    },
+    "best_match": "cafeteria",
+    "best_score": 0.8312555391804374,
+    "best_status": "STABLE",
+    "expected_score": 0.8312555391804374,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.1304618354761018
+  },
+  "metro/Metro2.amr": {
+    "expected_location": "metro",
+    "num_windows": 40,
+    "all_scores": {
+      "cafeteria": 0.08750338666009491,
+      "metro": 0.6344783699206209,
+      "nature": 0.11742855928192193,
+      "office": 0.0473093105349614
+    },
+    "best_match": "metro",
+    "best_score": 0.6344783699206209,
+    "best_status": "STABLE",
+    "expected_score": 0.6344783699206209,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.5170498106386989
+  },
+  "metro/Metro4.amr": {
+    "expected_location": "metro",
+    "num_windows": 37,
+    "all_scores": {
+      "cafeteria": 0.11542159273559167,
+      "metro": 0.5706286024376122,
+      "nature": 0.12126530237372403,
+      "office": 0.09243293740821656
+    },
+    "best_match": "metro",
+    "best_score": 0.5706286024376122,
+    "best_status": "STABLE",
+    "expected_score": 0.5706286024376122,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.44936330006388814
+  },
+  "nature/20260805_165342_738.amr": {
+    "expected_location": "nature",
+    "num_windows": 8,
+    "all_scores": {
+      "cafeteria": 0.585999077816494,
+      "metro": -0.14227651842728511,
+      "nature": 0.8526881962020632,
+      "office": 0.7268954700348397
+    },
+    "best_match": "nature",
+    "best_score": 0.8526881962020632,
+    "best_status": "STABLE",
+    "expected_score": 0.8526881962020632,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.12579272616722348
+  },
+  "office/20260605_200359_073.amr": {
+    "expected_location": "office",
+    "num_windows": 1,
+    "all_scores": {
+      "cafeteria": -0.0832529256821537,
+      "metro": -0.19347310894333916,
+      "nature": -0.016010718665608773,
+      "office": 0.6525209974818066
+    },
+    "best_match": "office",
+    "best_score": 0.6525209974818066,
+    "best_status": "STABLE",
+    "expected_score": 0.6525209974818066,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.6685317161474154
+  },
+  "office/20260805_130218_358.amr": {
+    "expected_location": "office",
+    "num_windows": 2,
+    "all_scores": {
+      "cafeteria": 0.471076834540883,
+      "metro": -0.28206521482247315,
+      "nature": 0.46026734099621036,
+      "office": 0.5699633969753104
+    },
+    "best_match": "office",
+    "best_score": 0.5699633969753104,
+    "best_status": "STABLE",
+    "expected_score": 0.5699633969753104,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.0988865624344274
+  },
+  "office/20260604_145302_351.amr": {
+    "expected_location": "office",
+    "num_windows": 1,
+    "all_scores": {
+      "cafeteria": 0.2702383104216719,
+      "metro": -0.12319306453838401,
+      "nature": 0.3274129401540008,
+      "office": 0.2235588992388693
+    },
+    "best_match": "nature",
+    "best_score": 0.3274129401540008,
+    "best_status": "RELOCATION_OR_FRAUD",
+    "expected_score": 0.2235588992388693,
+    "expected_status": "RELOCATION_OR_FRAUD",
+    "correct_match": false,
+    "margin": 0.0571746297323289
+  },
+  "office/20260805_173352_473.amr": {
+    "expected_location": "office",
+    "num_windows": 4,
+    "all_scores": {
+      "cafeteria": 0.4593610958991796,
+      "metro": -0.20132667745444696,
+      "nature": 0.4660380030229345,
+      "office": 0.5597221803612618
+    },
+    "best_match": "office",
+    "best_score": 0.5597221803612618,
+    "best_status": "STABLE",
+    "expected_score": 0.5597221803612618,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.09368417733832723
+  },
+  "office/20260605_194127_907.amr": {
+    "expected_location": "office",
+    "num_windows": 1,
+    "all_scores": {
+      "cafeteria": -0.1054807009772136,
+      "metro": -0.21652051687913923,
+      "nature": 0.21032742165648127,
+      "office": 0.574520539970213
+    },
+    "best_match": "office",
+    "best_score": 0.574520539970213,
+    "best_status": "STABLE",
+    "expected_score": 0.574520539970213,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.36419311831373175
+  },
+  "office/20260805_125430_834.amr": {
+    "expected_location": "office",
+    "num_windows": 1,
+    "all_scores": {
+      "cafeteria": 0.3987311418275909,
+      "metro": -0.2441006235028572,
+      "nature": 0.4437479078471235,
+      "office": 0.3840746169588448
+    },
+    "best_match": "nature",
+    "best_score": 0.4437479078471235,
+    "best_status": "MODERATE_DRIFT",
+    "expected_score": 0.3840746169588448,
+    "expected_status": "MODERATE_DRIFT",
+    "correct_match": false,
+    "margin": 0.045016766019532584
+  },
+  "office/20260605_194819_286.amr": {
+    "expected_location": "office",
+    "num_windows": 6,
+    "all_scores": {
+      "cafeteria": 0.10983271167441432,
+      "metro": -0.09063183386868029,
+      "nature": 0.3139137955998153,
+      "office": 0.6061168226626698
+    },
+    "best_match": "office",
+    "best_score": 0.6061168226626698,
+    "best_status": "STABLE",
+    "expected_score": 0.6061168226626698,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.29220302706285445
+  },
+  "office/20260804_153532_788.amr": {
+    "expected_location": "office",
+    "num_windows": 1,
+    "all_scores": {
+      "cafeteria": 0.25269589378148855,
+      "metro": -0.4324359524504479,
+      "nature": 0.3590176354812767,
+      "office": 0.670974411368662
+    },
+    "best_match": "office",
+    "best_score": 0.670974411368662,
+    "best_status": "STABLE",
+    "expected_score": 0.670974411368662,
+    "expected_status": "STABLE",
+    "correct_match": true,
+    "margin": 0.3119567758873853
+  }
+}
